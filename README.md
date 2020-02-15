@@ -3,6 +3,7 @@
 [![npm][npm-image]][npm-url]
 [![build][travis-image]][travis-url]
 [![download][download-image]][download-url]
+[![commitizen][commitizen-image]][commitizen-url]
 
 [npm-image]: https://img.shields.io/npm/v/@fatesigner/img-viewer.svg?color=red
 [npm-url]: https://npmjs.com/package/@fatesigner/img-viewer
@@ -10,6 +11,8 @@
 [travis-url]: https://travis-ci.com/fatesigner/img-viewer
 [download-image]: https://img.shields.io/npm/dw/@fatesigner/img-viewer.svg?color=green
 [download-url]: https://npmjs.com/package/@fatesigner/img-viewer
+[commitizen-image]: https://img.shields.io/badge/commitizen-friendly-green.svg
+[commitizen-url]: http://commitizen.github.io/cz-cli/
 
 适用于 PC 和移动端的 web 图片相册浏览器. 
 

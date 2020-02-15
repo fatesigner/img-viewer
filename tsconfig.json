@@ -23,13 +23,15 @@
     "noStrictGenericChecks": true,
     "noImplicitAny": false,
     "pretty": true,
+    "resolveJsonModule": true,
     "skipLibCheck": true,
     "sourceMap": true,
     "strict": false,
     "strictNullChecks": false,
+    "esModuleInterop": true,
     "rootDir": "./src",
     "module": "ESNext",
-    "target": "ES2018",
+    "target": "ES2019",
     "types": [
       "jest",
       "node"
